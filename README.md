@@ -1,9 +1,9 @@
 ### Welcome! 👋
 
  <div>
-  <a href="https://github.com/vitormateusalmeida">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tainan404&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tainan404&layout=compact&theme=dracula" />
+  <a href="https://github.com/Tainan404" style="display:flex;flex-direction: row;">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Tainan404&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tainan404&layout=compact&theme=dracula" />
   </a>
 </div>
 
