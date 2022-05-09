@@ -1,4 +1,6 @@
-### Welcome! 👋
+#### Hi there! My name is Tainan, I live in Brazil, I'm a fullstack developer at [@imdt](https://github.com/imdt), working for [@bigbluebutton](https://github.com/bigbluebutton/) and I love drink coffee and talk about any tech stuffs and literature (mainily HP and Tolkien universe).
+
+##
 
  <div>
   <a href="https://github.com/Tainan404" style="display:flex;flex-direction: row;">
