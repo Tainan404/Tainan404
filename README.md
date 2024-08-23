@@ -1,5 +1,4 @@
-#### Hi there! My name is Tainan, I live in Brazil, I'm a fullstack developer at [@imdt](https://github.com/imdt), working for [@bigbluebutton](https://github.com/bigbluebutton/) and I love drink coffee and talk about any tech stuffs and literature (mainily HP and Tolkien universe).
-
+#### Hi there! My name is Tainan, I live in Brazil, I'm a fullstack developer at @imdt, working for @bigbluebutton and I love to drink coffee and talk about any tech stuff or literature (mainly HP and Tolkien universe).
 ##
 
  <div>
